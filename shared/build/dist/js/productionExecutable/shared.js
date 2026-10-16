@@ -1,0 +1,2 @@
+!function(e,t){"object"==typeof exports&&"object"==typeof module?module.exports=t():"function"==typeof define&&define.amd?define([],t):"object"==typeof exports?exports.shared=t():e.shared=t()}(globalThis,()=>(()=>{var e={831(e,t){var o,r;void 0===(r="function"==typeof(o=function(e){"use strict";return e})?o.apply(t,[t]):o)||(e.exports=r)}};const t={};return function o(r){const n=t[r];if(void 0!==n)return n.exports;const s=t[r]={exports:{}};return e[r](s,s.exports,o),s.exports}(831)})());
+//# sourceMappingURL=shared.js.map

@@ -1,0 +1,11 @@
+abi_version=2.4.0
+builtins_platform=WASM
+compiler_version=2.4.20
+ir_signature_versions=1,2
+jsOutputName=petshop-front-webApp
+language_features=+AllowAnyAsAnActualTypeForExpectInterface +JsAllowImplementingFunctionInterface +MultiPlatformProjects
+metadata_version=2.4.0
+serializedIrFileFingerprints=12614n0o560p5.2g3r3w6bfd32n
+serializedKlibFingerprint=2b0hm6sqo9g0x.tjnb03spg1lp
+unique_name=petshop-front\:webApp
+wasm_targets=wasm-js

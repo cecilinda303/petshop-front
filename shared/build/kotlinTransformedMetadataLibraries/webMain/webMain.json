@@ -1,0 +1,707 @@
+[
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.kotlin",
+        "name": "kotlin-stdlib"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.kotlin",
+        "name": "kotlin-stdlib"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.kotlin-kotlin-stdlib-2.4.20-commonNonJvmMain-MgaIfA.klib",
+    "sourceSetName": "commonNonJvmMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.kotlin",
+        "name": "kotlin-stdlib"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.kotlin",
+        "name": "kotlin-stdlib"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.kotlin-kotlin-stdlib-2.4.20-webMain-MgaIfA.klib",
+    "sourceSetName": "webMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.compose.foundation",
+        "name": "foundation"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.compose.foundation",
+        "name": "foundation"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.compose.foundation-foundation-1.12.1-webMain-092ZXg.klib",
+    "sourceSetName": "webMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.compose.foundation",
+        "name": "foundation"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.compose.foundation",
+        "name": "foundation"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.compose.foundation-foundation-1.12.1-nonJvmMain-092ZXg.klib",
+    "sourceSetName": "nonJvmMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.compose.material3",
+        "name": "material3"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.compose.material3",
+        "name": "material3"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.compose.material3-material3-1.12.0-alpha03-webMain-vgJTbQ.klib",
+    "sourceSetName": "webMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.compose.material3",
+        "name": "material3"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.compose.material3",
+        "name": "material3"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.compose.material3-material3-1.12.0-alpha03-nonJvmMain-vgJTbQ.klib",
+    "sourceSetName": "nonJvmMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.compose.ui",
+        "name": "ui"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.compose.ui",
+        "name": "ui"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.compose.ui-ui-1.12.1-webMain-P5PkZw.klib",
+    "sourceSetName": "webMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.compose.ui",
+        "name": "ui"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.compose.ui",
+        "name": "ui"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.compose.ui-ui-1.12.1-nonJvmMain-P5PkZw.klib",
+    "sourceSetName": "nonJvmMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.compose.components",
+        "name": "components-resources"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.compose.components",
+        "name": "components-resources"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.compose.components-components-resources-1.12.1-webMain-x-IbKw.klib",
+    "sourceSetName": "webMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.compose.components",
+        "name": "components-resources"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.compose.components",
+        "name": "components-resources"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.compose.components-components-resources-1.12.1-skikoMain-x-IbKw.klib",
+    "sourceSetName": "skikoMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.compose.ui",
+        "name": "ui-tooling-preview"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.compose.ui",
+        "name": "ui-tooling-preview"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.compose.ui-ui-tooling-preview-1.12.1-nonJvmMain-ydDVnw.klib",
+    "sourceSetName": "nonJvmMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "androidx.compose.runtime",
+        "name": "runtime"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "androidx.compose.runtime",
+        "name": "runtime"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/androidx.compose.runtime-runtime-1.12.1-webMain-uGrQsQ.klib",
+    "sourceSetName": "webMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "androidx.compose.runtime",
+        "name": "runtime"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "androidx.compose.runtime",
+        "name": "runtime"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/androidx.compose.runtime-runtime-1.12.1-nonJvmMain-uGrQsQ.klib",
+    "sourceSetName": "nonJvmMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "androidx.compose.runtime",
+        "name": "runtime"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "androidx.compose.runtime",
+        "name": "runtime"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/androidx.compose.runtime-runtime-1.12.1-nonAndroidMain-uGrQsQ.klib",
+    "sourceSetName": "nonAndroidMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "androidx.collection",
+        "name": "collection"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "androidx.collection",
+        "name": "collection"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/androidx.collection-collection-1.5.0-webMain-j7f1lg.klib",
+    "sourceSetName": "webMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "androidx.collection",
+        "name": "collection"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "androidx.collection",
+        "name": "collection"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/androidx.collection-collection-1.5.0-nonJvmMain-j7f1lg.klib",
+    "sourceSetName": "nonJvmMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.compose.animation",
+        "name": "animation"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.compose.animation",
+        "name": "animation"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.compose.animation-animation-1.12.1-nonJvmMain--TxHmw.klib",
+    "sourceSetName": "nonJvmMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.compose.foundation",
+        "name": "foundation-layout"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.compose.foundation",
+        "name": "foundation-layout"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.compose.foundation-foundation-layout-1.12.1-nonJvmMain-oGCHmw.klib",
+    "sourceSetName": "nonJvmMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.compose.ui",
+        "name": "ui-text"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.compose.ui",
+        "name": "ui-text"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.compose.ui-ui-text-1.12.1-webMain-RE5row.klib",
+    "sourceSetName": "webMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.compose.ui",
+        "name": "ui-text"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.compose.ui",
+        "name": "ui-text"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.compose.ui-ui-text-1.12.1-nonJvmMain-RE5row.klib",
+    "sourceSetName": "nonJvmMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.compose.ui",
+        "name": "ui-util"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.compose.ui",
+        "name": "ui-util"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.compose.ui-ui-util-1.12.1-webMain-AxoCsw.klib",
+    "sourceSetName": "webMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.compose.ui",
+        "name": "ui-util"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.compose.ui",
+        "name": "ui-util"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.compose.ui-ui-util-1.12.1-nonJvmMain-AxoCsw.klib",
+    "sourceSetName": "nonJvmMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.kotlinx",
+        "name": "atomicfu"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.kotlinx",
+        "name": "atomicfu"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.kotlinx-atomicfu-0.28.0-jsAndWasmSharedMain-UmPgNA.klib",
+    "sourceSetName": "jsAndWasmSharedMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.kotlinx",
+        "name": "atomicfu"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.kotlinx",
+        "name": "atomicfu"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.kotlinx-atomicfu-0.28.0-commonMain-UmPgNA.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.skiko",
+        "name": "skiko"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.skiko",
+        "name": "skiko"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.skiko-skiko-0.150.1-webMain-WLtCvA.klib",
+    "sourceSetName": "webMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.skiko",
+        "name": "skiko"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.skiko",
+        "name": "skiko"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.skiko-skiko-0.150.1-nativeJsMain-WLtCvA.klib",
+    "sourceSetName": "nativeJsMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.skiko",
+        "name": "skiko"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.skiko",
+        "name": "skiko"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.skiko-skiko-0.150.1-commonMain-WLtCvA.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "androidx.graphics",
+        "name": "graphics-shapes"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "androidx.graphics",
+        "name": "graphics-shapes"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/androidx.graphics-graphics-shapes-1.1.0-nonJvmMain-fBTZNQ.klib",
+    "sourceSetName": "nonJvmMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.compose.animation",
+        "name": "animation-core"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.compose.animation",
+        "name": "animation-core"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.compose.animation-animation-core-1.12.1-webMain-xP1nQg.klib",
+    "sourceSetName": "webMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.compose.animation",
+        "name": "animation-core"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.compose.animation",
+        "name": "animation-core"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.compose.animation-animation-core-1.12.1-nonJvmMain-xP1nQg.klib",
+    "sourceSetName": "nonJvmMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "androidx.annotation",
+        "name": "annotation"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "androidx.annotation",
+        "name": "annotation"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/androidx.annotation-annotation-1.9.1-nonJvmMain-WmoUwA.klib",
+    "sourceSetName": "nonJvmMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "androidx.compose.runtime",
+        "name": "runtime-retain"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "androidx.compose.runtime",
+        "name": "runtime-retain"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/androidx.compose.runtime-runtime-retain-1.12.1-nonJvmMain-c_A_bA.klib",
+    "sourceSetName": "nonJvmMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "androidx.lifecycle",
+        "name": "lifecycle-viewmodel-compose"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "androidx.lifecycle",
+        "name": "lifecycle-viewmodel-compose"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/androidx.lifecycle-lifecycle-viewmodel-compose-2.11.0-nonJvmMain-7f7_jw.klib",
+    "sourceSetName": "nonJvmMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "androidx.lifecycle",
+        "name": "lifecycle-viewmodel-savedstate"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "androidx.lifecycle",
+        "name": "lifecycle-viewmodel-savedstate"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/androidx.lifecycle-lifecycle-viewmodel-savedstate-2.11.0-webMain-W6e6nQ.klib",
+    "sourceSetName": "webMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "androidx.lifecycle",
+        "name": "lifecycle-viewmodel-savedstate"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "androidx.lifecycle",
+        "name": "lifecycle-viewmodel-savedstate"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/androidx.lifecycle-lifecycle-viewmodel-savedstate-2.11.0-nonAndroidMain-W6e6nQ.klib",
+    "sourceSetName": "nonAndroidMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "androidx.savedstate",
+        "name": "savedstate-compose"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "androidx.savedstate",
+        "name": "savedstate-compose"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/androidx.savedstate-savedstate-compose-1.4.0-nonAndroidMain-YfHBdg.klib",
+    "sourceSetName": "nonAndroidMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.compose.ui",
+        "name": "ui-graphics"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.compose.ui",
+        "name": "ui-graphics"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.compose.ui-ui-graphics-1.12.1-webMain-eBDpvw.klib",
+    "sourceSetName": "webMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.compose.ui",
+        "name": "ui-graphics"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.compose.ui",
+        "name": "ui-graphics"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.compose.ui-ui-graphics-1.12.1-nonJvmMain-eBDpvw.klib",
+    "sourceSetName": "nonJvmMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.compose.ui",
+        "name": "ui-unit"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.compose.ui",
+        "name": "ui-unit"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.compose.ui-ui-unit-1.12.1-nonJvmMain-TncRGg.klib",
+    "sourceSetName": "nonJvmMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.kotlinx",
+        "name": "kotlinx-browser"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.kotlinx",
+        "name": "kotlinx-browser"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.kotlinx-kotlinx-browser-0.5.0-webMain-LuyR1Q.klib",
+    "sourceSetName": "webMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "androidx.lifecycle",
+        "name": "lifecycle-common"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "androidx.lifecycle",
+        "name": "lifecycle-common"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/androidx.lifecycle-lifecycle-common-2.11.0-nonJvmMain-5YDLUQ.klib",
+    "sourceSetName": "nonJvmMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "androidx.lifecycle",
+        "name": "lifecycle-viewmodel"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "androidx.lifecycle",
+        "name": "lifecycle-viewmodel"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/androidx.lifecycle-lifecycle-viewmodel-2.11.0-webMain-Qjv5zA.klib",
+    "sourceSetName": "webMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "androidx.lifecycle",
+        "name": "lifecycle-viewmodel"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "androidx.lifecycle",
+        "name": "lifecycle-viewmodel"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/androidx.lifecycle-lifecycle-viewmodel-2.11.0-nonJvmMain-Qjv5zA.klib",
+    "sourceSetName": "nonJvmMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "androidx.savedstate",
+        "name": "savedstate"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "androidx.savedstate",
+        "name": "savedstate"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/androidx.savedstate-savedstate-1.4.0-webMain-JkDvJw.klib",
+    "sourceSetName": "webMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "androidx.savedstate",
+        "name": "savedstate"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "androidx.savedstate",
+        "name": "savedstate"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/androidx.savedstate-savedstate-1.4.0-nonAndroidMain-JkDvJw.klib",
+    "sourceSetName": "nonAndroidMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "androidx.lifecycle",
+        "name": "lifecycle-runtime"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "androidx.lifecycle",
+        "name": "lifecycle-runtime"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/androidx.lifecycle-lifecycle-runtime-2.11.0-webMain-u4l1lg.klib",
+    "sourceSetName": "webMain"
+  },
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.kotlinx",
+        "name": "kotlinx-io-core"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.kotlinx",
+        "name": "kotlinx-io-core"
+      }
+    },
+    "file": "/workspaces/petshop-front/shared/build/kotlinTransformedMetadataLibraries/webMain/org.jetbrains.kotlinx-kotlinx-io-core-0.5.4-nodeFilesystemSharedMain-VZyyzw.klib",
+    "sourceSetName": "nodeFilesystemSharedMain"
+  }
+]

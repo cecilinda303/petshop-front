@@ -212,9 +212,6 @@
     "5ec37a9248621cb7ae72a80f227c7f23": {
       "src": "/home/codespace/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-serialization-kotlinx-wasm-js/3.0.3/80b35a911b35fe9020d7e1cc99ccc61710ee5466/ktor-serialization-kotlinx-wasm-js-3.0.3.klib"
     },
-    "8dfe18bd268d180bedb340333827ddf7": {
-      "src": "/home/codespace/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-wasm-js/2.4.20/203b3b64cb75dcb7d6571150a333660fdae3a64/kotlin-test-wasm-js-2.4.20.klib"
-    },
     "435e9ef51b2b14ead28ac39aeaee942e": {
       "src": "/home/codespace/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-core-wasm-js/1.7.3/1badfeaf1bb965ae884394fced75656e42ed98a1/kotlinx-serialization-core-wasm-js-1.7.3.klib"
     },
@@ -232,6 +229,9 @@
     },
     "253d0f84d6a3c68278d689a262055573": {
       "src": "/home/codespace/.gradle/caches/modules-2/files-2.1/org.jetbrains.androidx.lifecycle/lifecycle-viewmodel-wasm-js/2.9.6/e91d9920cc1b6f9c79a4646033e1df81e5e453fe/lifecycle-viewmodel-wasm-js-2.9.6.klib"
+    },
+    "8dfe18bd268d180bedb340333827ddf7": {
+      "src": "/home/codespace/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-wasm-js/2.4.20/203b3b64cb75dcb7d6571150a333660fdae3a64/kotlin-test-wasm-js-2.4.20.klib"
     }
   }
 }
